@@ -1,4 +1,5 @@
 `local VERSION = "1.7.8"`
+```ini
 [*] Engine Redesign (Strongest Server Hopper)
   [+] implemented pure asynchronous HTTP yielding 
   [+] removed artificial API polling overhead
@@ -13,3 +14,4 @@
 [*] File System
   [+] save operations are now throttle-debounced (0.5s)
   [+] zero disk micro-stuttering on config changes
+```
