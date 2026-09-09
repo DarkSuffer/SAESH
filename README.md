@@ -1,5 +1,5 @@
 ## SS-H — BIGGEST Update Log
-`local VERSION = "2.0.0"`
+`local VERSION = "2.0.1"`
 ```ini
 [*] Security & Gatekeeper Engine (CRITICAL)
   [+] Integrated automated 6-Digit PIN Discord-to-Roblox account linking
